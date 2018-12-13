@@ -1,0 +1,7 @@
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P4-FileStreamApp\Ch20-P4-FileStreamApp\bin\Debug\Ch20-P4-FileStreamApp.exe.config
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P4-FileStreamApp\Ch20-P4-FileStreamApp\bin\Debug\Ch20-P4-FileStreamApp.exe
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P4-FileStreamApp\Ch20-P4-FileStreamApp\bin\Debug\Ch20-P4-FileStreamApp.pdb
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P4-FileStreamApp\Ch20-P4-FileStreamApp\obj\Debug\Ch20-P4-FileStreamApp.csprojAssemblyReference.cache
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P4-FileStreamApp\Ch20-P4-FileStreamApp\obj\Debug\Ch20-P4-FileStreamApp.csproj.CoreCompileInputs.cache
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P4-FileStreamApp\Ch20-P4-FileStreamApp\obj\Debug\Ch20-P4-FileStreamApp.exe
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P4-FileStreamApp\Ch20-P4-FileStreamApp\obj\Debug\Ch20-P4-FileStreamApp.pdb
